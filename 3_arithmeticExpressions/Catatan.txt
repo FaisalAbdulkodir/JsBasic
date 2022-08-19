@@ -1,0 +1,4 @@
+aritmetich expression is a combination if operands (values, variab, etc)
+operators(+ - * / %)
+that can be evaluated to a value 
+ex. y = x + 5;
